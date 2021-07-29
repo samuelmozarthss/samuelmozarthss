@@ -1,7 +1,6 @@
 ### Olá! Sou o Samuel Mozarth! 👋
 
 - 🌱 Atualmente estou estudando Flutter
-- 💬 Ask me about ...
 - 📫 Contate-me no email: contatosamuelm@gmail.com
 
  <div>
