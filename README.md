@@ -1,7 +1,8 @@
 ### Olá! Sou o Samuel Mozarth! 👋
 
 - 🌱 Atualmente estou estudando Kotlin e Android
-- 📫 Contate-me no email: contatosamuelm@gmail.com
+- 📫 Contate-me atraves dos meus links:
+https://beacons.page/ssamss
 
  <div>
   <a href="https://github.com/samuelmozarthss">
