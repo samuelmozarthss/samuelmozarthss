@@ -2,13 +2,13 @@
 
 - 🌱 Currently working as a Mobile Software Engineer.
 - 📫 Contact me through my links:<br>
-https://beacons.page/ssamss
+<a href="https://beacons.page/ssamss">👉🖥👈</a>
 
 ### Olá! Meu nome é Samuel Mozarth! 👋
 
 - 🌱 Atualmente trabalhando como Engenheiro de Software Mobile.
 - 📫 Contate-me atraves dos meus links:<br>
-https://beacons.page/ssamss
+<a href="https://beacons.page/ssamss">👉🖥👈</a>
 
  <div>
   <a href="https://github.com/samuelmozarthss">
