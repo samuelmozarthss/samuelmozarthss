@@ -17,13 +17,13 @@
 </div>
 
 <div style="display: inline_block"><br>
- <h4>Working with:</h4>
+ <h4>🧰 Working with:</h4>
  <img align="center" alt="Sams-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  <img align="center" alt="Sams-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
  <img align="center" alt="Sams-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
 <div style="display: inline_block"><br>
- <h4>Learning:</h4>
+ <h4>📚 Learning:</h4>
  <img align="center" alt="Sams-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  <img align="center" alt="Sams-Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
 </div>
