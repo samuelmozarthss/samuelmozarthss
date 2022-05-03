@@ -4,7 +4,7 @@
 - 📫 Contact me through my links:<br>
 https://beacons.page/ssamss
 
-### Olá! Sou o Samuel Mozarth! 👋
+### Olá! Meu nome é Samuel Mozarth! 👋
 
 - 🌱 Atualmente trabalhando como Engenheiro de Software Mobile.
 - 📫 Contate-me atraves dos meus links:<br>
@@ -15,13 +15,17 @@ https://beacons.page/ssamss
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmozarthss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmozarthss&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-  
 
-  
 <div style="display: inline_block"><br>
- <img align="center" alt="Sams-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+ <h4>Working with:</h4>
  <img align="center" alt="Sams-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  <img align="center" alt="Sams-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+ <img align="center" alt="Sams-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</div>
+<div style="display: inline_block"><br>
+ <h4>Learning:</h4>
+ <img align="center" alt="Sams-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+ <img align="center" alt="Sams-Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
 </div>
   
   ##
@@ -35,5 +39,4 @@ https://beacons.page/ssamss
 <!--   <a href="https://www.youtube.com/channel/UCTwJZ0AmTNPXxSKxWcYhRaw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   
 <!--    ![Snake animation](https://github.com/samuelmozarthss/samuelmozarthss/blob/output/github-contribution-grid-snake.svg) -->
-  
 </div>
