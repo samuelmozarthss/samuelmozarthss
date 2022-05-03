@@ -1,13 +1,13 @@
 ### Hi! My name is Samuel Mozarth!👋
 
 - 🌱 Currently working as a Mobile Software Engineer.
-- 📫 Contact me through my links:
+- 📫 Contact me through my links:<br>
 https://beacons.page/ssamss
 
 ### Olá! Sou o Samuel Mozarth! 👋
 
 - 🌱 Atualmente trabalhando como Engenheiro de Software Mobile.
-- 📫 Contate-me atraves dos meus links:
+- 📫 Contate-me atraves dos meus links:<br>
 https://beacons.page/ssamss
 
  <div>
@@ -20,8 +20,8 @@ https://beacons.page/ssamss
   
 <div style="display: inline_block"><br>
  <img align="center" alt="Sams-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
- <img align="center" alt="Sams-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
  <img align="center" alt="Sams-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+ <img align="center" alt="Sams-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </div>
   
   ##
