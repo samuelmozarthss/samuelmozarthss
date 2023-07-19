@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
 <h1 align="center">Hi 👋, I'm Samuel Mozarth</h1>
-<h3 align="center">A Mobile Developer</h3>
+<h3 align="center">A Mobile Developer from Brazil</h3>
 
 
 - 🌱 Currently working on Montreal Informática.
@@ -155,7 +155,8 @@
 <div>
   <a href="https://github.com/samuelmozarthss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmozarthss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmozarthss&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmozarthss&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmozarthss&theme=tokyonight&" alt="samuelmozarthss" />
 </div>
   
   ##
