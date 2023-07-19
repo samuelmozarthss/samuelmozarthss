@@ -1,12 +1,11 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
 <h1 align="center">Hi 👋, I'm Samuel Mozarth</h1>
 <h3 align="center">A Mobile Developer from Brazil</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samuelmozarthss&label=Profile%20views&color=0e75b6&style=flat" alt="samuelmozarthss" /> </p>
 
 - 🌱 Currently working on Montreal Informática.
 
 - 📫 How to reach me **contatosamuelm@gmail.com**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
