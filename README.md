@@ -157,7 +157,6 @@
   <a href="https://github.com/samuelmozarthss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmozarthss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmozarthss&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmozarthss&theme=tokyonight&" alt="samuelmozarthss" />
 </div>
   
   ##
@@ -167,5 +166,5 @@
   <a href = "mailto:contatosamuelm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-   ![Snake animation](https://github.com/{{your_username}}/samuelmozarthss/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/samuelmozarthss/samuelmozarthss/blob/output/github-contribution-grid-snake.svg)
 </div>
